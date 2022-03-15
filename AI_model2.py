@@ -1,6 +1,6 @@
 import random
 
-# Step 2 -> Filter Out Already Tried Numbers
+# Model 2 -> Filter Out Already Tried Numbers
 
 def random_number_func():
         random_number = random.randint(0, 100)
@@ -26,3 +26,5 @@ while True:
 
 print(f'It Took {times_tried} Times to Find the Number')
 print(f'Array => {tried_numebrs}')
+
+# It Took 0 ~ 150 Tries To Find the Number

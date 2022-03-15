@@ -10,4 +10,4 @@ while True:
     times_tried = times_tried + 1
 print(f'It Took {times_tried} Times to Find the Number')
 
-# First Attempt -> It Took 0 ~ 250 Tries To Find the Number
+# It Took 0 ~ 250 Tries To Find the Number
